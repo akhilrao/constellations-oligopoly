@@ -2,6 +2,10 @@
 
 This repository contains data, code, and images for the paper "Oligopoly competition between satellite constellations will reduce economic welfare from orbit use".
 
+This is a "living" version of the official repository and should not be cited.
+
+If you want to cite the code or data associated with this project, please reference the official repository: https://doi.org/10.57968/Middlebury.23816994.v1
+
 ## How is this repository organized?
 
 * /bin contains all of the R code. The code in here runs the benchmark model, calibration, and sensitivity analyses. It also contains functions used in running simulations and generating plots.
